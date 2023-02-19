@@ -1,9 +1,9 @@
 {
     "What is your name?":
-        "My name is Chatbot.",
+        "My name is Parsa's Chatbot.",
     
     "What can you do?":
-        "I can answer questions, provide information, and help you with tasks.",
+        "I can answer Minecrafty questions, provide information, and help you with tasks.",
 
     "What is the capital of France?":
         "The capital of France is Paris.",
@@ -27,5 +27,39 @@
         "The Pacific Ocean is the largest ocean on Earth.",
 
     "Who was the first president of the United States?":
-        "George Washington was the first president of the United States." 
+        "George Washington was the first president of the United States.",
+    "tellraw example":
+        "Example for someone joined to game:\n/tellraw @a {\"text\":\"ParsaGP joined the game\",\"color\":\"yellow\"}",
+
+    "zoom mods":
+        "OptiFine https://optifine.net/, \nZoomify: https://www.curseforge.com/minecraft/mc-mods/zoomify/, \nWI Zoom: https://www.curseforge.com/minecraft/mc-mods/wi-zoom, \nOkZoomer: https://www.curseforge.com/minecraft/mc-mods/ok-zoomer",
+
+/* INCOMPLETE */
+    "optimization mods":
+        "Forge: Optifine,\n Modpack: OpalFab, Fabolusly Optimized\nFabric Mods: ",
+
+    "java version":
+        "The Java version can be found in the Java Control Panel. Under the General tab in the Java Control Panel, the version is available through the About section. A dialog appears (after clicking About) showing the Java version.",
+
+    "buy a original minecraft account":
+        "You can get a legal minecraft account in many ways:\n 1. From minecraft.net with a paypal account; But your PayPal account may be disabled. Because PayPal can identify you as Iranian due to your IP not being the same or any other reason. Keep in mind that you need a virtual number to create a PayPal account. Also, buy from a reliable store and we do not take responsibility for account theft or account\n 2. From a reliable shop; I would like to introduce you to onlinekeys.ir. I have bought from there myself, but as before, we do not take any responsibility for theft or fraud.",
+
+    "limit ram in minecraft launcher":
+        "Go to the installation section\nThen you hover over the version you want to change the RAM\nThere are three points you click\nThen you go to advanced settings\nThen you set the value of -Xmx800M to the value you want\nFor example\nOne Gigabyte: -Xmx1G\nOne gigabyte and a half: Xmx1536M\nHalf gigabyte: -Xmx512M",
+
+    "":
+        "",
+        
+    "":
+        "",
+        
+    "":
+        "",
+        
+    "":
+        "",
+        
+    "":
+        ""
+        
 }

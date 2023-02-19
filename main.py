@@ -6,7 +6,7 @@ import requests as req
 # Define a function that compares two strings and returns a value between 0 and 1 that indicates the degree of similarity. 
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
-request = req.get("https://raw.githubusercontent.com/Parsa-GP/PyChatBot/main/api.json", timeout=5)
+request = req.get("http://raw.githubusercontent.com/Parsa-GP/MCQACB/main/api.json", timeout=5)
 
 if request.status_code==200:
     qa = literal_eval(request.text)
