@@ -34,9 +34,8 @@
     "zoom mods":
         "OptiFine https://optifine.net/, \nZoomify: https://www.curseforge.com/minecraft/mc-mods/zoomify/, \nWI Zoom: https://www.curseforge.com/minecraft/mc-mods/wi-zoom, \nOkZoomer: https://www.curseforge.com/minecraft/mc-mods/ok-zoomer",
 
-/* INCOMPLETE */
     "optimization mods":
-        "Forge: Optifine,\n Modpack: OpalFab, Fabolusly Optimized\nFabric Mods: ",
+        "Forge: Optifine,\n Modpack: OpalFab, Fabolusly Optimized",
 
     "java version":
         "The Java version can be found in the Java Control Panel. Under the General tab in the Java Control Panel, the version is available through the About section. A dialog appears (after clicking About) showing the Java version.",
@@ -47,19 +46,18 @@
     "limit ram in minecraft launcher":
         "Go to the installation section\nThen you hover over the version you want to change the RAM\nThere are three points you click\nThen you go to advanced settings\nThen you set the value of -Xmx800M to the value you want\nFor example\nOne Gigabyte: -Xmx1G\nOne gigabyte and a half: Xmx1536M\nHalf gigabyte: -Xmx512M",
 
-    "":
-        "",
+    "give barrier":
+        "/give @s minecraft:barrier",
         
-    "":
-        "",
+    "crack skin":
+        "There is a mod called CustomSkinLoader, it is both forged and fabric\nYou and your friend put it in the mods folder, then you go to your skin in the config files, you set it, your friend sets it, and you both see the same skin.",
         
-    "":
-        "",
+    "i have a premium account but my friend don't. skin problem":
+        "- Look, you have an account, but you can't see his skin because your friend hasn't bought the game and his skin is not registered in Minecraft servers. So his skin will not be shown to you\nBut your friend who hates you has two problems\n1. Use TLauncher: TLauncher itself (unfortunately) comes and manipulates Minecraft files and does something so that those who use TLauncher, instead of using the Minecraft server, use the TLauncher server to load skins and because you use TLauncher You are not (or you are using another launcher), the skin is not in the launcher server, and as a result, the skin is not loaded in any way.\n2. Use other launchers such as multimc so that the minecraft file is exactly the official and unmodified minecraft file (and it is open source, because if it is not, it is possible that the files have been manipulated): because the minecraft file is not manipulated and the game is played from the server. He uses minecraft to load the skin, your skin goes to him, but because his skin is not in the minecraft servers, he cannot see his own skin.",
         
-    "":
-        "",
+    "what is minecon":
+        "Minecon is an annual interactive livestream and fan convention about the video game Minecraft, hosted by Mojang. The first gathering in 2010 was known as MinecraftCon. The event then went by the Minecon name from 2011 to 2019. (Source: Wikipedia, obviously)",
         
-    "":
-        ""
-        
+    "what is the difference between full access and original premium account?":
+        "Original and Full Access are not so different from each other, but since the account belongs to another person, Full Access is unlikely to be used."
 }

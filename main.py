@@ -22,8 +22,8 @@ while True:
      # Ask the user a question. 
     question = input("? ")
 
-     # Initialize the maximum similarity score to 0.45.
-    max_similarity = 0.45
+     # Initialize the maximum similarity score to 0.05.
+    max_similarity = 0.05
 
      # Initialize the best matching question to None. 
     best_match = None
